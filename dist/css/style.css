@@ -44,6 +44,10 @@ nav .nav-link {
   z-index: 4;
 }
 
+.hero h1 {
+  font-size: calc(1.125rem + 1.25vw);
+}
+
 .hero p {
   font-size: 18px;
   line-height: 1.7;
@@ -109,7 +113,7 @@ nav .nav-link {
 }
 
 .about .img.banner {
-  background-image: url(../img/img-1.jpg);
+  background-image: url(../img/img-8.jpg);
   min-height: 300px;
 }
 
