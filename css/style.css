@@ -45,7 +45,8 @@ nav .nav-link {
 }
 
 .hero h1 {
-  font-size: calc(1.125rem + 1.25vw);
+  font-size: calc(1rem + 1.25vw);
+  line-height: 1.4;
 }
 
 .hero p {
@@ -237,7 +238,8 @@ footer p {
   }
 
   .hero h1 {
-    font-size: 1.5rem;
+    font-size: 1.125rem;
+    line-height: 1.5;
   }
 
   .hero p {
