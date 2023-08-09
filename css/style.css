@@ -180,6 +180,10 @@ footer p {
   background-repeat: no-repeat;
 }
 
+.header-title {
+  font-size: clamp(1.6rem, 1.48rem + 0.6vw, 2.2rem);
+}
+
 .fs-14 {
   font-size: 0.875rem;
 }
