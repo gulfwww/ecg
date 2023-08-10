@@ -216,6 +216,10 @@ footer p {
   gap: 0.25rem;
 }
 
+.mb-18 {
+  margin-bottom: 1.125rem;
+}
+
 @media (max-width: 87.49875em) {
   .waves {
     bottom: -60px;
