@@ -54,6 +54,10 @@ nav .nav-link {
   line-height: 1.7;
 }
 
+.hero .fs-15 {
+  font-size: 1rem;
+}
+
 .banner-area {
   z-index: 1;
 }
@@ -233,7 +237,7 @@ footer p {
 
 @media (max-width: 600px) {
   .hero {
-    height: 400px;
+    height: 70vh;
     text-align: center;
   }
 
